@@ -1,6 +1,6 @@
 
 
-# 🍴 FlavourFood Website
+# 🍴🍕 FlavourFood Website
 
 A responsive **Food Delivery Website** built with **HTML5, CSS3, and JavaScript (jQuery + AOS animation library)**.  
 This project showcases a modern restaurant/food delivery landing page with multiple sections such as features, meals, how it works, cities, testimonials, plans, and a contact form.
@@ -70,6 +70,7 @@ Pricing Plans – Subscription options
 Contact Form – Feedback & subscription form
 
 Footer – Navigation & social icons
+
 
 
 
