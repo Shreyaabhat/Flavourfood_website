@@ -1,4 +1,4 @@
-﻿# Flavour-foods
+
 
 # 🍴 FlavourFood Website
 
@@ -70,3 +70,7 @@ Pricing Plans – Subscription options
 Contact Form – Feedback & subscription form
 
 Footer – Navigation & social icons
+
+
+
+
