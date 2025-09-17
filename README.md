@@ -36,7 +36,7 @@ This project showcases a modern restaurant/food delivery landing page with multi
 
 ## 🚀 Getting Started
 
-1. **Clone the repository**
+1. **Clone the repository   Project Structure** 
    ```bash
    git clone https://github.com/Shreyaabhat/Flavourfood_website.git
    cd Flavourfood_website
@@ -70,6 +70,7 @@ Pricing Plans – Subscription options
 Contact Form – Feedback & subscription form
 
 Footer – Navigation & social icons
+
 
 
 
