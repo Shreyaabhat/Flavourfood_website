@@ -23,7 +23,7 @@ html,body{
 }
 
 header{
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.4)) ,url('img/hero-image2.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.4)) ,url('resources/css/img/hero-image2.jpg');
     height: 150vh;
     background-size: cover;
     background-position: center center;
@@ -506,6 +506,7 @@ footer p{
 .social-links li a:visited{
     font-size: 160%;
 }
+
 
 
 
