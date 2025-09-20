@@ -150,6 +150,7 @@ h2::after{
     line-height: 145% ;
     width: 70%;
     margin-left: 15%;
+    
 
 }
 .box{
@@ -171,6 +172,7 @@ h3{
     line-height: 145%;
     text-align:justify;
     text-justify: auto;
+    font-size: 15px;
 }
 .icon-big{
     font-size: 350%;
@@ -369,7 +371,7 @@ blockquote::before{
 }
 .section-steps{
     h2{
-        padding: 50px;
+        padding: 30px;
     }
 }
 .section-plans{
